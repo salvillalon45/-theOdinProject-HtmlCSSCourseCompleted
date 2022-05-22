@@ -1,5 +1,5 @@
 <h1 align="center">
-[The Odin Project: Node] - List of Completed Projects
+[The Odin Project: Intermediate & Advanced HTML/CSS] - List of Completed Projects
 </h1>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
@@ -14,65 +14,43 @@
 
 ## Intro
 
-Here you will find all the projects that I completed along with their GitHub Repo for the NodeJS module in the Odin Project.
+Here you will find all the projects that I completed along with their GitHub Repo for the Intermediate and Advanced HTML/CSS modules in the Odin Project.
 
-The course consisted of 17 lessons and 7 projects. Some of the concepts I learned:
+The Intermediate course consisted of 21 lessons and 2 projects. I learned the following:
+-   HTML
+    -   Using Emmet in VS code to be more productive
+    -   Form basics and validation
+    -   Media: SVGs, JPG, and PNGs and when to use each one
+    -   HTML Tables 
+    -   Setting up authentication using PassportJS
+-   CSS
+    -   Using **advance selectors** to not have to create unnecessary html classes
+    -   Learning about positining and the difference between relative, absolute, sticky 
+    - Establish a foundation in CSS Grid!
 
--   Setting up a backend with NodeJS and ExpressJS
--   Using MongoDB as my database
--   CRUD & MVC Patterns
--   Setting up authentication using PassportJS
--   How to serve views from the backends using EJS (Embedded JavaScript templating)
--   Creating APIs that serve multiple Frontends 
--   Deploying backend apps using Heroku
--   Unit Testing (Jest)
+For the projects I challenged myself to practice everything I learned here by:
+-   Creating a design of how I want the application to look like and brainstorm what layout system will I use to place all my content (Grid or Flexbox)
+-   Using advanced selectors to minimize use of unnecessary classes
+-   Minimizing the use of unnecessary HTML tags and only using what is needed
+-   Using semantic html tags  
 
-The projects were more focused on the Backend. I challenged myself to practice my Frontend skills by:
--   Using TypeScript instead of plain JavaScript
--   Setting up TypeScript and Gastby projects
--   SWR Hooks for better API fetchings and mutations
--   Creating my own reusable hooks
--   Using SWR Hooks I no longer needed to depend on parent child components for passing down data. 
--   I learned how efficient a library like SWR Hooks can be over React Context and Redux
--   Dribble (For design inspiration)
--   Gatsby Framework
--   Netlify
+The Advanced course consisted of 15 lessons and 1 projects. I learned the following:
+- Animations: How to make animations using CSS and which ones to use
+- Accessibility: I learned how websites need to follow a set of guidelines to make it easier for everyone to navigate your site. Online tools can help us check how accessible our website 
+- Responsive design: I learned how elements in a website are naturally responsive, it is when we start adding CSS that we make them unresponsive
 
 ## The projects:
 
-1.  [The Odin Project: Node] - Basic Informational Site
+1.  [The Odin Project: Intermediate HTML & CSS] - Sign Up Form
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-BasicInformationalSite)
-    -   [Live Site](https://theodinproject-basicinformationalsite.salvadorvillalo.repl.co/index.html)
+    -   [Code](https://github.com/salvillalon45/theOdinProject-SignUpForm)
+    -   [Live Site](https://odin-signupform-sv.netlify.app/)
 
-2.  [The Odin Project: Node] - Mini Message Board
+2.  [The Odin Project: Intermediate HTML & CSS] - Admin Dashboard
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-MiniMessageBoard)
-    -   [Live Site](https://lit-shelf-92540.herokuapp.com/)
+    -   [Code](https://github.com/salvillalon45/theOdinProject-AdminDashboard))
+    -   [Live Site](https://odin-admindashboard-sv.netlify.app/)
 
-3.  [The Odin Project: Node] - Inventory Application
+3.  [The Odin Project: Advanced HTML & CSS] - Personal Portfolio
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-InventoryApplication)
-    -   [Live Site](https://sals-videogamestore.herokuapp.com/)
-
-4.  [The Odin Project: Node] - Members Only
-
-    -   [Code](https://github.com/salvillalon45/theOdinProject-MembersOnly)
-    -   [Live Site](https://yeagerists.herokuapp.com/)
-
-5.  [The Odin Project: Node] - Blog API
-    - Blog User View
-       -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
-       -   [User View](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
-    -  Blog Admin View 
-       -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
-       -   [Admin View](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
-    - Blog API   
-    -   [Code](https://github.com/salvillalon45/theOdinProject-BlogApi)
-
-6.  [The Odin Project: Node] - Odin Book
-    - Odin Book API
-       - [OdinBook API Code](https://github.com/salvillalon45/theOdinProject-OdinBookApi)
-    - Odin Book Client
-       -   [Code](https://github.com/salvillalon45/theOdinProject-OdinBookClient)
-       -   [Live Site](https://odin-book-client-sv.netlify.app/)
+    -   Now that I have completed the Odin Project. I can now fully work on my Personal Portfolio
